@@ -8,10 +8,6 @@
     <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </div>
-
-   <div align="center">
-     Built by following the tutorial from <a href="https://www.youtube.com/watch?v=rOpEN1JDaD0" target="_blank"><b>JavaScript Mastery</b></a>.
-    </div>
 </div>
 
 ---
@@ -128,7 +124,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 ```json
 {
-  "name": "Javascript Mastery Elite Membership",
+  "name": "The Times Of World",
   "price": 139.00,
   "currency": "USD",
   "frequency": "monthly",
@@ -147,4 +143,6 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 - **Hostinger** - [https://hostinger.com/mastery10](https://hostinger.com/mastery10)
 - **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)
 
-
+   <div align="left">
+     Built by following the tutorial from <a href="https://www.youtube.com/watch?v=rOpEN1JDaD0" target="_blank"><b>JavaScript Mastery</b></a>.
+    </div>
