@@ -73,7 +73,7 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/<your-username>/subscription-tracker-api.git
 cd subscription-tracker-api
-
+```
 **Installation**
 
 Install the project dependencies using npm:
