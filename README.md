@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </div>
 
-<h3 align="center">A Subscription Management System API</h3>
-
    <div align="center">
      Built by following the tutorial from <a href="https://www.youtube.com/watch?v=rOpEN1JDaD0" target="_blank"><b>JavaScript Mastery</b></a>.
     </div>
